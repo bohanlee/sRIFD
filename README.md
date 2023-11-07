@@ -3,7 +3,7 @@ A multimodal image matching method, which can address the rotation issues.<br>
 
 Demo code of the sRIFD algorithm, which is designed for multimodal image feature matching. If it is helpful for you, please cite our paper:<br>
 sRIFD:A Shift Rotation Invariant Feature Descriptro for multi-sensor image matching.<br>
-Thanks for [RIFT2](https://github.com/LJY-RS/RIFT2-multimodal-matching-rotation)
+Thanks for [RIFT2](https://github.com/LJY-RS/RIFT2-multimodal-matching-rotation)<br>
 @article{LI2023104970,<br>
 title = {sRIFD: A Shift Rotation Invariant Feature Descriptor for multi-sensor image matching},<br>
 journal = {Infrared Physics & Technology},<br>
